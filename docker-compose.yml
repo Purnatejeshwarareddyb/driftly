@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  driftly:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - SOURCE_NAME=RemoteOK Public Feed
+      - SOURCE_URL=https://remoteok.com/api
+    volumes:
+      - driftly-data:/app/data
+
+volumes:
+  driftly-data:
