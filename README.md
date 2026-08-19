@@ -7,8 +7,9 @@ demonstration data; the actual product idea is a system that keeps
 ingesting from an external source and stays useful when that source
 becomes unreliable.
 
-##  Live
-[![Live Demo]([https://shields.io](https://driftly-li9i.onrender.com/))]([https://your-demo-url.com](https://driftly-li9i.onrender.com/))
+## Live
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://driftly-li9i.onrender.com/)
 
 
 ## Problem
