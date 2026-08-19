@@ -8,7 +8,7 @@ ingesting from an external source and stays useful when that source
 becomes unreliable.
 
 ##  Live
-[![Live Demo](https://shields.io)]([https://your-demo-url.com](https://driftly-li9i.onrender.com/))
+[![Live Demo]([https://shields.io](https://driftly-li9i.onrender.com/))]([https://your-demo-url.com](https://driftly-li9i.onrender.com/))
 
 
 ## Problem
